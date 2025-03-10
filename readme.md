@@ -11,8 +11,10 @@
 🖥️ Full Stack Development: HTML 🌐 | CSS 🎨| Flask 🧩 | SQL 🗄️
 📊 Data Science & Analytics: Pandas 🐼 | NumPy 🔢 | Matplotlib 📈 | Seaborn 🎨 | SQL 
 
-🌟 Connect With Me
+🌟 Connect With Me:
+
 💼 LinkedIn: linkedin.com/in/shiva-prasad-naroju-4772a6184
+
 📧 Email: shivanaroju26@gmail.com
 
 ⚡ "Passionate about building intelligent systems and pushing boundaries in AI!" 💡🚀
