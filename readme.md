@@ -13,7 +13,7 @@
 
 🌟 Connect With Me:
 
-💼 LinkedIn: linkedin.com/in/shiva-prasad-naroju-4772a6184
+💼 LinkedIn: https://www.linkedin.com/in/shiva-prasad-naroju-4772a6184/
 
 📧 Email: shivanaroju26@gmail.com
 
