@@ -3,6 +3,7 @@
 
 ## 🚀 About Me
 🎓 BTech Graduate | 📍 Passionate about Machine Learning, Deep Learning, and AI Applications
+
 📚 Always Learning | Attending workshops, exploring ML,DL, AI, Neuroimaging, and connecting with tech experts.
 
 ## 🛠️ Tech Stack & Skills
