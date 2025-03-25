@@ -1,4 +1,4 @@
-# 🚀 Shiva Prasad | ML & MLOps Practitioner | Tech Explorer
+## 🚀 Shiva Prasad | ML & MLOps Practitioner | Tech Explorer
 
 # 👨‍💻 About Me
 🔹 AI & ML Enthusiast | Self-Learner | Problem-Solver
