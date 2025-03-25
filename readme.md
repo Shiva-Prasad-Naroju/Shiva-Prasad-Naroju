@@ -12,7 +12,7 @@
 🔹 Turning ideas into reality through AI-driven solutions
 
 ## 💡 Tech Stack & Skills:
-💡 Machine Learning & AI: Scikit-learn | TensorFlow | PyTorch | YOLO | CNNs
+💡 Machine Learning & AI: Scikit-learn | YOLO | CNNs
 
 ⚡ MLOps & Model Deployment: Docker | Flask | MLflow | CI/CD Pipelines | Model Monitoring
 
