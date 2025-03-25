@@ -43,7 +43,7 @@
 ## 🌟 Connect With Me:
 📌 GitHub: https://github.com/Shiva-Prasad-Naroju
 
-💼 LinkedIn: linkedin.com/in/shiva-prasad-naroju-4772a6184/
+💼 LinkedIn: https://www.linkedin.com/in/shiva-prasad-naroju-4772a6184/
 
 📧 Email: shivanaroju26@gmail.com
 
