@@ -41,7 +41,7 @@
 🔹 Scalable MLOps for Real-World AI Systems
 
 ## 🌟 Connect With Me:
-📌 GitHub: github.com/Shiva-Prasad
+📌 GitHub: https://github.com/Shiva-Prasad-Naroju
 
 💼 LinkedIn: linkedin.com/in/shiva-prasad-naroju-4772a6184/
 
