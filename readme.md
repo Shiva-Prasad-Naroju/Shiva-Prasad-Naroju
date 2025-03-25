@@ -1,6 +1,6 @@
 # 🚀 Shiva Prasad Naroju | ML & MLOps Practitioner | Tech Explorer
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me:
 🔹 AI & ML Enthusiast | Self-Learner | Problem-Solver
 
 🔹 Exploring Machine Learning, Deep Learning & MLOps
@@ -11,7 +11,7 @@
 
 🔹 Turning ideas into reality through AI-driven solutions
 
-## 💡 Tech Stack & Skills
+## 💡 Tech Stack & Skills:
 💡 Machine Learning & AI: Scikit-learn | TensorFlow | PyTorch | YOLO | CNNs
 
 ⚡ MLOps & Model Deployment: Docker | Flask | MLflow | CI/CD Pipelines | Model Monitoring
@@ -40,9 +40,11 @@
 
 🔹 Scalable MLOps for Real-World AI Systems
 
-## 🌟 Connect With Me
+## 🌟 Connect With Me:
 📌 GitHub: github.com/Shiva-Prasad
+
 💼 LinkedIn: linkedin.com/in/shiva-prasad-naroju-4772a6184/
+
 📧 Email: shivanaroju26@gmail.com
 
 💡 "Passionate about AI-driven solutions, MLOps, and scaling innovation with technology!" 🚀
