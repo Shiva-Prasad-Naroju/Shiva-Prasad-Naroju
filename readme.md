@@ -12,9 +12,9 @@
 🔹 Turning ideas into reality through AI-driven solutions
 
 ## 💡 Tech Stack & Skills:
-💡 Machine Learning & AI: Scikit-learn | YOLO | CNNs
+💡 AI | Machine Learning | Deep Learning | CNNs | ANNs | NLP | Scikit-learn | YOLO |
 
-⚡ MLOps & Model Deployment: Docker | Flask | MLflow | CI/CD Pipelines | Model Monitoring
+⚡ MLOps & Model Deployment: Docker | Flask | MLflow | CI/CD Pipelines | Model Monitoring | AWS 
 
 📊 Data Science & Analytics: Pandas | NumPy | Matplotlib | Seaborn | SQL
 
