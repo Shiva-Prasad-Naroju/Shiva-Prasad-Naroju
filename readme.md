@@ -1,4 +1,4 @@
-# 🚀 Shiva Prasad Naroju | AI&ML Engineer | LLM Developer | MLOps 
+# 🚀 Shiva Prasad Naroju | AI&ML Engineer | GenAI | LLMs | MLOps 
 
 ## 👨‍💻 About Me
 
@@ -12,8 +12,6 @@
 
 🔹 Turning **AI theory into deployable applications** that matter  
 
----
-
 ## 🧠 What I’ve Learned So Far
 
 ### 🔹 Machine Learning, Deep Learning and Gen AI:
@@ -25,9 +23,7 @@
 - Sequence Models: **RNN**, **LSTM**, **Bidirectional RNN**
   
 - Attention Mechanisms: **Encoder-Decoder**, **Transformers**
-
----
-
+  
 ### 🔹 Generative AI & LLMs
 
 - Concepts of **LLMs**, **Prompt Engineering**, **Tokenization**, **Fine-tuning**
@@ -36,8 +32,6 @@
   
 - Explored **RAG pipelines**, **PromptTemplates**, **Memory**, and **AgentToolkits**
 
----
-
 ### 🔹 Tools & Deployment
 
 - **Docker**, **Flask**, **CI/CD**, **MLflow**, **AWS EC2 & S3**
@@ -45,8 +39,6 @@
 - **LangChain Core**, **OpenAI**, **Groq**, **Streamlit**
   
 - End-to-end projects from **data cleaning → model training → deployment**
-
----
 
 ## 💡 Tech Stack & Skills
 
@@ -59,8 +51,6 @@
 | **Full Stack**      | HTML, CSS, Flask, Streamlit                                   |
 | **Tools**           | Git/GitHub, VS Code,Jupyter                  |
 
----
-
 ## 🧩 What Sets Me Apart?
 
 ✔️ **End-to-End Engineering** – From raw data to AI products  
@@ -71,8 +61,6 @@
 
 ✔️ **AI with Purpose** – Interested in **neuroimaging**, **AI ethics**, and **healthcare AI**
 
----
-
 ## 🌱 Current Focus Areas
 
 - 🔍 Building scalable **RAG systems** and **LangChain agents**
@@ -82,13 +70,13 @@
 - 🧠 Understanding **LLM memory, context length**, and **performance tradeoffs**
   
 - 📚 Applying **transformer models** for real-world NLP problems
-
----
-
+  
 ## 🌐 Connect With Me
 
 📌 **GitHub**: [Shiva-Prasad-Naroju](https://github.com/Shiva-Prasad-Naroju)  
+
 💼 **LinkedIn**: [Shiva Prasad](https://www.linkedin.com/in/shiva-prasad-naroju-4772a6184/)  
+
 📧 **Email**: shivanaroju26@gmail.com  
 
 > 💬 _"I'm building AI that thinks, scales, and solves problems with impact."_  
