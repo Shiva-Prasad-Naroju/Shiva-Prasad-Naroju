@@ -1,50 +1,63 @@
-# 🚀 Shiva Prasad Naroju | ML & MLOps Practitioner | Tech Explorer
+# 🚀 Shiva Prasad Naroju | AI&ML Engineer | LLM Developer | MLOps 
 
-## 👨‍💻 About Me:
-🔹 AI & ML Enthusiast | Self-Learner | Problem-Solver
+## 👨‍💻 About Me
+🔹 **AI & LLM Enthusiast** | Tech Creator  
+🔹 From ML to LLMs — I build intelligent systems that solve real-world problems  
+🔹 Currently mastering **LangChain**, **AI Agents**, and **Generative AI frameworks**  
+🔹 Passionate about building scalable, ethical, and deployable AI solutions  
+🔹 Turning **AI theory into deployable applications** that matter  
 
-🔹 Exploring Machine Learning, Deep Learning & MLOps
+## 🧠 What I’ve Learned So Far
 
-🔹 Learning by doing – applying AI to real-world challenges
+### 🔹 Machine Learning, Deep Learning and Gen AI:
+- Supervised & Unsupervised Learning  
+- Neural Networks: **ANNs**, **CNNs**  
+- Sequence Models: **RNN**, **LSTM**, **Bidirectional RNN**  
+- Attention Mechanisms: **Encoder-Decoder**, **Transformers**
 
-🔹 Passionate about Neuroimaging, AI Ethics & Model Optimization
+### 🔹 Generative AI & LLMs
+- Concepts of **LLMs**, **Prompt Engineering**, **Tokenization**, **Fine-tuning**  
+- Built chatbot UIs using **LangChain**, **Streamlit**, and **Groq**  
+- Explored **RAG pipelines**, **PromptTemplates**, **Memory**, and **AgentToolkits**
 
-🔹 Turning ideas into reality through AI-driven solutions
+### 🔹 Tools & Deployment
+- **Docker**, **Flask**, **CI/CD**, **MLflow**, **AWS EC2 & S3**  
+- **LangChain Core**, **OpenAI**, **Groq**, **Streamlit**
+- End-to-end projects from **data cleaning → model training → deployment**
 
-## 💡 Tech Stack & Skills:
-💡 AI | Machine Learning | Deep Learning | CNNs | ANNs | NLP | Scikit-learn | YOLO |
+---
 
-⚡ MLOps & Model Deployment: Docker | Flask | MLflow | CI/CD Pipelines | Model Monitoring | AWS 
+## 💡 Tech Stack & Skills
 
-📊 Data Science & Analytics: Pandas | NumPy | Matplotlib | Seaborn | SQL
+| Domain              | Tools / Frameworks                                            |
+|---------------------|---------------------------------------------------------------|
+| **ML & DL**         | Scikit-learn, TensorFlow, Keras, CNN, RNN, LSTM               |
+| **LLMs & Gen AI**   | LangChain, OpenAI, Hugging Face, Groq, Transformers, Prompting|
+| **MLOps**           | Docker, Flask, MLflow, GitHub Actions, AWS, LangSmith         |
+| **Data Analytics**  | Pandas, NumPy, SQL, Matplotlib, Seaborn                       |
+| **Full Stack**      | HTML, CSS, Flask, Streamlit                                   |
+| **Tools**           | Git/GitHub, VS Code,Jupyter                  |
 
-💻 Full Stack Development: HTML | CSS | JavaScript | Flask 
+## 🧩 What Sets Me Apart?
 
-🛠 Software & Tools: Git/GitHub | AWS
+✔️ **End-to-End Engineering** – From raw data to AI products  
+✔️ **Prompt-Centric LLM Workflows** – Efficient chaining, parsing, and memory integration  
+✔️ **Tech Community Explorer** – Actively learning from and contributing to AI communities  
+✔️ **AI with Purpose** – Interested in **neuroimaging**, **AI ethics**, and **healthcare AI**
 
-## 📌 What Sets Me Apart?
-✔ Problem-Driven Learning – Studying to apply AI, not just theorize
+## 🌱 Current Focus Areas
 
-✔ End-to-End AI Workflow – From data preprocessing to deployment
+- 🔍 Building scalable **RAG systems** and **LangChain agents**  
+- 📊 Improving **model observability** using LangSmith  
+- 🧠 Understanding **LLM memory, context length**, and **performance tradeoffs**  
+- 📚 Applying **transformer models** for real-world NLP problems
 
-✔ Research-Oriented – Passionate about AI in Healthcare & XAI
+## 🌐 Connect With Me
 
-✔ Continuous Learning – Engaging in workshops & expert collaborations
+📌 **GitHub**: [Shiva-Prasad-Naroju](https://github.com/Shiva-Prasad-Naroju)  
+💼 **LinkedIn**: [Shiva Prasad](https://www.linkedin.com/in/shiva-prasad-naroju-4772a6184/)  
+📧 **Email**: shivanaroju26@gmail.com  
 
-## 🌱 Current Focus Areas:
-🔹 AI Research & Model Interpretability
+> 💬 _"I'm building AI that thinks, scales, and solves problems with impact."_  
+> _— Shiva Prasad Naroju_
 
-🔹 Optimizing ML Models for Deployment
-
-🔹 AI Ethics & Responsible AI
-
-🔹 Scalable MLOps for Real-World AI Systems
-
-## 🌟 Connect With Me:
-📌 GitHub: https://github.com/Shiva-Prasad-Naroju
-
-💼 LinkedIn: https://www.linkedin.com/in/shiva-prasad-naroju-4772a6184/
-
-📧 Email: shivanaroju26@gmail.com
-
-💡 "Passionate about AI-driven solutions, MLOps, and scaling innovation with technology!" 🚀
