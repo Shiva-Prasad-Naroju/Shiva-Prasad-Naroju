@@ -1,84 +1,81 @@
-# 🚀 Shiva Prasad Naroju | AI&ML Engineer | GenAI | LLMs | MLOps 
+# 🚀 Shiva Prasad Naroju  
+
+**AI Engineer**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shiva-prasad-naroju-4772a6184/)  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Shiva-Prasad-Naroju)  
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:shivanaroju26@gmail.com)  
+
+> _"Engineering AI that thinks, collaborates, and solves at scale."_  
+
+---
 
 ## 👨‍💻 About Me
+I’m an **AI Engineer** who transforms cutting-edge research into **production-grade AI ecosystems**.  
 
-🔹 **AI & LLM Enthusiast** | Tech Creator  
+From **Machine Learning & Deep Learning** to **GenAI-powered Multi-Agent Architectures**,  
 
-🔹 From ML to LLMs — I build intelligent systems that solve real-world problems  
+I build **scalable, resilient, and intelligent systems** that deliver measurable real-world impact.  
 
-🔹 Currently mastering **LangChain**, **AI Agents**, and **Generative AI frameworks**  
+💡 My expertise spans **end-to-end AI product development** — from raw data to deployed, user-ready solutions.  
 
-🔹 Passionate about building scalable, ethical, and deployable AI solutions  
+---
 
-🔹 Turning **AI theory into deployable applications** that matter  
+## 🏆 Flagship Project
 
-## 🧠 What I’ve Learned So Far
+### **🏠 Vaasthu Vision AI**  
 
-### 🔹 Machine Learning, Deep Learning and Gen AI:
+An AI-powered **Vaasthu Shastra architectural consultancy platform** that uses RAG architecture, retrieves the vaasthu queries from Qdrant Vector DB help users with vaasthu queries.  
 
-- Supervised & Unsupervised Learning
-  
-- Neural Networks: **ANNs**, **CNNs**
-  
-- Sequence Models: **RNN**, **LSTM**, **Bidirectional RNN**
-  
-- Attention Mechanisms: **Encoder-Decoder**, **Transformers**
-  
-### 🔹 Generative AI & LLMs
+---
 
-- Concepts of **LLMs**, **Prompt Engineering**, **Tokenization**, **Fine-tuning**
-  
-- Built chatbot UIs using **LangChain**, **Streamlit**, and **Groq**
-  
-- Explored **RAG pipelines**, **PromptTemplates**, **Memory**, and **AgentToolkits**
+## 🧠 Notable AI Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Vaasthu Vision AI** | AI-based architectural Vaasthu consultancy platform using CV + LLMs. | LangChain, Groq, Qdrant, OpenCV, Shapely, Streamlit |
+| **AI Automotive Consultant** | Multi-agent AI system for automotive consultancy — lead generation, negotiation, and customer retention. | CrewAI, LangGraph, Groq, VectorDB, Streamlit, FastAPI |
+| **AI Travel & Safety Companion (Open Source)** | AI-powered safe travel planner using hazard datasets, OSRM, and weather-aware RAG. | OpenStreetMap, OSRM, Open-Meteo, LangChain, H3, Shapely |
+| **Supervised Multi-AI Sales Team** | AI-driven enterprise sales & customer success automation. | LangGraph, Groq, SQLite, SMTP, Agents |
 
-### 🔹 Tools & Deployment
+---
 
-- **Docker**, **Flask**, **CI/CD**, **MLflow**, **AWS EC2 & S3**
-  
-- **LangChain Core**, **OpenAI**, **Groq**, **Streamlit**
-  
-- End-to-end projects from **data cleaning → model training → deployment**
+## 🧠 Core Expertise
+### **Generative AI**
+- **Multi-Agent Orchestration** – CrewAI, LangGraph, role-based agents. 
+- **RAG** – Hybrid retrieval, contextual memory, structured outputs  
+- **LLM Application Engineering** – Prompt orchestration, tool calling, output parsing  
+- **Vector Databases** – Qdrant, ChromaDB, FAISS
 
-## 💡 Tech Stack & Skills
+### **Machine Learning & Deep Learning**
+- **Supervised & Unsupervised Learning** – Regression, Classification, Clustering  
+- **Neural Networks** – ANN, CNN, RNN, LSTM.  
+- **Attention Mechanisms** – Encoder-Decoder, Transformers  
 
-| Domain              | Tools / Frameworks                                            |
-|---------------------|---------------------------------------------------------------|
-| **ML & DL**         | Scikit-learn, TensorFlow, Keras, CNN, RNN, LSTM               |
-| **LLMs & Gen AI**   | LangChain, OpenAI, Hugging Face, Groq, Transformers, Prompting|
-| **MLOps**           | Docker, Flask, MLflow, GitHub Actions, AWS, LangSmith         |
-| **Data Analytics**  | Pandas, NumPy, SQL, Matplotlib, Seaborn                       |
-| **Full Stack**      | HTML, CSS, Flask, Streamlit                                   |
-| **Tools**           | Git/GitHub, VS Code,Jupyter                  |
+### **Natural Language Processing**
+- Text classification, NER, sentiment analysis  
+- Transformer-based models – BERT, GPT, T5  
+- Tokenization, embeddings, sequence modeling
+- 
+---
 
-## 🧩 What Sets Me Apart?
+## 📈 What Sets Me Apart
+✔ **End-to-End AI Product Builder** – From data pipelines to fully deployed AI platforms  
+✔ **Architect of Agent Workflows** – Designing LLM ecosystems that talk, collaborate, and act  
+✔ **ML/DL/NLP Breadth + GenAI Depth** – Bridging classical AI with the latest in LLM tech  
+✔ **Real-World AI Impact** – Safety, automation, and domain-specific intelligence systems  
 
-✔️ **End-to-End Engineering** – From raw data to AI products  
+---
 
-✔️ **Prompt-Centric LLM Workflows** – Efficient chaining, parsing, and memory integration  
+## 🌱 Current Focus
+- Scaling **multi-agent AI systems** for enterprise automation  
+- Building **agentic RAG frameworks** with hybrid retrieval & persistent memory
+- Enhancing **AI observability** with LangSmith & telemetry pipelines  
 
-✔️ **Tech Community Explorer** – Actively learning from and contributing to AI communities  
+---
 
-✔️ **AI with Purpose** – Interested in **neuroimaging**, **AI ethics**, and **healthcare AI**
-
-## 🌱 Current Focus Areas
-
-- 🔍 Building scalable **RAG systems** and **LangChain agents**
-  
-- 📊 Improving **model observability** using LangSmith
-  
-- 🧠 Understanding **LLM memory, context length**, and **performance tradeoffs**
-  
-- 📚 Applying **transformer models** for real-world NLP problems
-  
 ## 🌐 Connect With Me
-
 📌 **GitHub**: [Shiva-Prasad-Naroju](https://github.com/Shiva-Prasad-Naroju)  
-
 💼 **LinkedIn**: [Shiva Prasad](https://www.linkedin.com/in/shiva-prasad-naroju-4772a6184/)  
-
 📧 **Email**: shivanaroju26@gmail.com  
-
-> 💬 _"I'm building AI that thinks, scales, and solves problems with impact."_  
-> _— Shiva Prasad Naroju_
-
