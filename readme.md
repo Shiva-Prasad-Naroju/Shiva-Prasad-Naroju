@@ -9,7 +9,7 @@
 
 ## 🏆 Flagship Project
 
-### **🏠 Vaasthu Vision AI**  
+## **🏠 Vaasthu Vision AI**  
 
 An AI-powered **Vaasthu Shastra architectural consultancy platform** that uses RAG architecture, retrieves the vaasthu queries from Qdrant Vector DB help users with vaasthu queries.  
 
@@ -20,8 +20,6 @@ An AI-powered **Vaasthu Shastra architectural consultancy platform** that uses R
 | **Vaasthu Vision AI** | AI-based architectural Vaasthu consultant | LangChain, Groq, Qdrant, Shapely, Streamlit |
 | **AI Automotive Consultant** | Multi-agent AI system for automotive consultancy | CrewAI, LangGraph, Groq, VectorDB, Streamlit, FastAPI |
 | **AI Travel & Safety Companion (Open Source)** | AI-powered safe travel planner using hazard datasets, OSRM, RAG. | OpenStreetMap, OSRM, Open-Meteo, LangChain |
-
----
 
 ## 🧠 Core Expertise
 ### **Generative AI**
