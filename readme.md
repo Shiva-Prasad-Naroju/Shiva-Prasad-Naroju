@@ -2,16 +2,6 @@
 
 **AI Engineer**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shiva-prasad-naroju-4772a6184/)  
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Shiva-Prasad-Naroju)  
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:shivanaroju26@gmail.com)  
-
-> _"Engineering AI that thinks, collaborates, and solves at scale."_  
-
----
-
 ## 👨‍💻 About Me
 I’m an **AI Engineer** who transforms cutting-edge research into **production-grade AI ecosystems**.  
 
@@ -21,23 +11,19 @@ I build **scalable, resilient, and intelligent systems** that deliver measurable
 
 💡 My expertise spans **end-to-end AI product development** — from raw data to deployed, user-ready solutions.  
 
----
-
 ## 🏆 Flagship Project
 
 ### **🏠 Vaasthu Vision AI**  
 
 An AI-powered **Vaasthu Shastra architectural consultancy platform** that uses RAG architecture, retrieves the vaasthu queries from Qdrant Vector DB help users with vaasthu queries.  
 
----
 
 ## 🧠 Notable AI Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Vaasthu Vision AI** | AI-based architectural Vaasthu consultancy platform using CV + LLMs. | LangChain, Groq, Qdrant, OpenCV, Shapely, Streamlit |
-| **AI Automotive Consultant** | Multi-agent AI system for automotive consultancy — lead generation, negotiation, and customer retention. | CrewAI, LangGraph, Groq, VectorDB, Streamlit, FastAPI |
-| **AI Travel & Safety Companion (Open Source)** | AI-powered safe travel planner using hazard datasets, OSRM, and weather-aware RAG. | OpenStreetMap, OSRM, Open-Meteo, LangChain, H3, Shapely |
-| **Supervised Multi-AI Sales Team** | AI-driven enterprise sales & customer success automation. | LangGraph, Groq, SQLite, SMTP, Agents |
+| **Vaasthu Vision AI** | AI-based architectural Vaasthu consultant | LangChain, Groq, Qdrant, Shapely, Streamlit |
+| **AI Automotive Consultant** | Multi-agent AI system for automotive consultancy | CrewAI, LangGraph, Groq, VectorDB, Streamlit, FastAPI |
+| **AI Travel & Safety Companion (Open Source)** | AI-powered safe travel planner using hazard datasets, OSRM, RAG. | OpenStreetMap, OSRM, Open-Meteo, LangChain |
 
 ---
 
@@ -57,8 +43,7 @@ An AI-powered **Vaasthu Shastra architectural consultancy platform** that uses R
 - Text classification, NER, sentiment analysis  
 - Transformer-based models – BERT, GPT, T5  
 - Tokenization, embeddings, sequence modeling
-- 
----
+  
 
 ## 📈 What Sets Me Apart
 ✔ **End-to-End AI Product Builder** – From data pipelines to fully deployed AI platforms  
@@ -66,14 +51,18 @@ An AI-powered **Vaasthu Shastra architectural consultancy platform** that uses R
 ✔ **ML/DL/NLP Breadth + GenAI Depth** – Bridging classical AI with the latest in LLM tech  
 ✔ **Real-World AI Impact** – Safety, automation, and domain-specific intelligence systems  
 
----
-
 ## 🌱 Current Focus
 - Scaling **multi-agent AI systems** for enterprise automation  
 - Building **agentic RAG frameworks** with hybrid retrieval & persistent memory
 - Enhancing **AI observability** with LangSmith & telemetry pipelines  
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shiva-prasad-naroju-4772a6184/)  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Shiva-Prasad-Naroju)  
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:shivanaroju26@gmail.com)  
+
+> _"Engineering AI that thinks, collaborates, and solves at scale."_  
 
 ## 🌐 Connect With Me
 📌 **GitHub**: [Shiva-Prasad-Naroju](https://github.com/Shiva-Prasad-Naroju)  
