@@ -13,8 +13,6 @@ From **ML & DL** foundations to **GenAI-powered multi-agent orchestration**, I d
 
 💡 **Specialty:** Turning raw data into deployed AI products — combining **classical AI depth** with **Generative AI innovation**.
 
----
-
 ## 🏆 Flagship Project
 
 ### 🏠 Vaasthu Vision AI
@@ -24,8 +22,6 @@ From **ML & DL** foundations to **GenAI-powered multi-agent orchestration**, I d
 - Built for **scalability and real-world usability**  
 
 **Tech:** LangChain • Groq • Qdrant • Shapely • Streamlit
-
----
 
 ## 🧠 Core Expertise
 
@@ -45,8 +41,6 @@ From **ML & DL** foundations to **GenAI-powered multi-agent orchestration**, I d
 - Transformer Models: BERT, GPT, T5  
 - Tokenization, embeddings, sequence modeling
 
----
-
 ## 🚀 Notable AI Projects
 
 | Project | Description | Tech Stack |
@@ -55,22 +49,16 @@ From **ML & DL** foundations to **GenAI-powered multi-agent orchestration**, I d
 | **AI Automotive Consultant** | Multi-agent AI system for automotive consultancy | CrewAI, LangGraph, Groq, VectorDB, Streamlit, FastAPI |
 | **AI Travel & Safety Companion (Open Source)** | AI-powered safe travel planner using hazard datasets & OSRM | OpenStreetMap, OSRM, Open-Meteo, LangChain |
 
----
-
 ## 📈 What Sets Me Apart
 ✔ **End-to-End AI Product Builder** – From pipelines to fully deployed platforms  
 ✔ **Architect of Agent Workflows** – Designing AI ecosystems that talk, collaborate & act  
 ✔ **ML/DL/NLP Breadth + GenAI Depth** – Bridging classical AI with cutting-edge LLMs  
 ✔ **Real-World AI Impact** – Delivering domain-specific intelligence systems  
 
----
-
 ## 🌱 Current Focus
 - Scaling **multi-agent AI systems** for enterprise automation  
 - Building **agentic RAG frameworks** with persistent memory  
 - Enhancing **AI observability** with LangSmith & telemetry pipelines  
-
----
 
 ## 📬 Connect With Me
 
@@ -85,8 +73,6 @@ From **ML & DL** foundations to **GenAI-powered multi-agent orchestration**, I d
         <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
     </a>
 </p>
-
----
 
 <p align="center">
     <em>“Building AI that doesn’t just answer — it understands, collaborates, and creates.”</em>
