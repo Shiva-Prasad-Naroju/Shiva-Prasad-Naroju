@@ -1,13 +1,11 @@
 # 🚀 Shiva Prasad Naroju | AI Engineer | GEN AI  
 
-## 👨‍💻 About Me
-I’m an **AI Engineer** who transforms cutting-edge research into **production-grade AI ecosystems**.  
+### 👨‍💻 About Me
 
-From **Machine Learning & Deep Learning** to **GenAI-powered Multi-Agent Architectures**,  
+- AI Engineer building intelligent systems that think, collaborate, and scale.
 
-I build **scalable, resilient, and intelligent systems** that deliver measurable real-world impact.  
+- From ML & DL to GenAI Multi-Agent Orchestration, I deliver end-to-end AI products — from raw data to real-world impact.
 
-💡 My expertise spans **end-to-end AI product development** — from raw data to deployed, user-ready solutions.  
 
 ## 🏆 Flagship Project
 
