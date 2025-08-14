@@ -1,6 +1,4 @@
-# 🚀 Shiva Prasad Naroju  
-
-**AI Engineer**  
+# 🚀 Shiva Prasad Naroju | AI Engineer | GEN AI  
 
 ## 👨‍💻 About Me
 I’m an **AI Engineer** who transforms cutting-edge research into **production-grade AI ecosystems**.  
