@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">🚀 Shiva Prasad Naroju</h1>
+<h1 align="center">🚀 SHIVA PRASAD NAROJU</h1>
 
 <h3 align="center">AI Engineer | Generative AI | Multi-Agent Systems</h3>
 
@@ -21,7 +21,7 @@ From **ML & DL** foundations to **GenAI-powered multi-agent orchestration**, I d
 - Delivers instant, accurate answers to Vaasthu-related queries  
 - Built for **scalability and real-world usability**  
 
-**Tech:** LangChain • Groq • Qdrant • Shapely • Streamlit
+**Tech:** LangChain • Groq • Qdrant • Bolt ai for website
 
 ## 🧠 Core Expertise
 
