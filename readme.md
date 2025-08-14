@@ -7,8 +7,6 @@
     <em>Engineering AI that thinks, collaborates, and delivers at scale.</em>
 </p>
 
----
-
 ## 👨‍💻 About Me
 I’m an **AI Engineer** passionate about transforming cutting-edge research into **production-grade AI ecosystems**.  
 From **ML & DL** foundations to **GenAI-powered multi-agent orchestration**, I design and deploy **intelligent systems** that scale with real-world impact.
